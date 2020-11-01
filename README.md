@@ -1,2 +1,2 @@
-# demo
+# JavaProject
 demonstration git 
